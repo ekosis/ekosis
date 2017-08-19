@@ -15,7 +15,7 @@ public class gugudan {
 	        	System.out.println("9단 보다 큰 단은 하기 싫어요");
 	        }else 
 	        	
-		 	 	System.out.println(number + "단을 출력합니다."); 
+//		 	 	System.out.println(number + "단을 출력합니다."); 
 	        
 	 for(int i= 1; i<10; i++) 
 		 System.out.println(number * i);
